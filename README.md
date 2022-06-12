@@ -1,5 +1,4 @@
-
-<h2>Leonardo Marques👌</h2>
+# Leonardo Marques👌
 
 <div align="center">
   <a href="https://github.com/LeonardoMarques7">
