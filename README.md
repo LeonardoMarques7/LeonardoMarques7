@@ -3,7 +3,7 @@
 <div align="center">
   <a href="https://github.com/LeonardoMarques7">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LeonardoMarques7&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeonardoMarques7&layout=compact&langs_count=7&theme=midnight-purple"/>
+  <img height="181em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeonardoMarques7&layout=compact&langs_count=7&theme=midnight-purple"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Js" height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/260px-Unofficial_JavaScript_logo_2.svg.png">
