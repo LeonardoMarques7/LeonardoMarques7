@@ -10,4 +10,5 @@
   <img align="center" alt="-HTML" height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/800px-HTML5_logo_and_wordmark.svg.png">
   <img align="center" alt="-CSS" height="40" width="40" src="https://cdn-icons-png.flaticon.com/512/5968/5968242.png">
   <img align="center" alt="-Python" height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/2048px-Python-logo-notext.svg.png">
+  <img align="center" alt="-C#" height="40" width="40" src="https://www.avenga.com/wp-content/uploads/2020/11/C-Sharp.png">
 </div>
