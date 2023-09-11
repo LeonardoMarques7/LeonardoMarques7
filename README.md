@@ -11,4 +11,5 @@
   <img align="center" alt="-CSS" height="40" width="40" src="https://cdn-icons-png.flaticon.com/512/5968/5968242.png">
   <img align="center" alt="-Python" height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/2048px-Python-logo-notext.svg.png">
   <img align="center" alt="-C#" height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/C_Sharp_wordmark.svg/2048px-C_Sharp_wordmark.svg.png">
+  <img align="center" alt="-C#" height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/800px-React-icon.svg.png">
 </div>
