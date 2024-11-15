@@ -40,5 +40,5 @@
 - 🚀 Apaixonado por desenvolvimento web e de software.  
 - 📖 Estudante de ciências da computação.
 - 🎓 Formado em Técnico de Desenvolvimento de Sistemas  
-- 💡 Interesses: **projetos open-source**, **código limpo**, **soluções inovadoras** e ** trabalhar em equipe**.  
+- 💡 Interesses: **projetos open-source**, **código limpo**, **soluções inovadoras** e **trabalhar em equipe**.  
 
