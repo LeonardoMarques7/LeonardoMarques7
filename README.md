@@ -1,7 +1,3 @@
-Aqui está a versão traduzida e ajustada para português do `README.md`:
-
----
-
 # 👽 Leonardo Marques 👽
 
 <div align="center">
