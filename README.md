@@ -33,7 +33,7 @@ Aqui está a versão traduzida e ajustada para português do `README.md`:
 ---
 
 ### 📫 **Como me encontrar**
-- **E-mail:** [leonardoemcs!66@gmail.com](mailto:leonardoemcs!66@gmail.com)  
+- **E-mail:** [leonardoemcs166@gmail.com](mailto:leonardoemcs166@gmail.com)  
 - **LinkedIn:** [Leonardo Marques](https://www.linkedin.com/in/leonardo-emanuel-3695451a0/)  
 - **Portfólio:** [Meu Portfólio](https://portfolio-react2.netlify.app)  
 
