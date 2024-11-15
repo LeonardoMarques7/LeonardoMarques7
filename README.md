@@ -19,6 +19,7 @@
   <img align="center" alt="Python" height="40" src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" title="Python">
   <img align="center" alt="PHP" height="40" src="https://upload.wikimedia.org/wikipedia/commons/2/27/PHP-logo.svg" title="PHP">
   <img align="center" alt="C#" height="40" src="https://upload.wikimedia.org/wikipedia/commons/0/0d/C_Sharp_wordmark.svg" title="C#">
+  <img align="center" alt="Git" height="40" src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Git_icon.svg" title="Git">
 </div>
 
 #### **Frameworks e Bibliotecas**
