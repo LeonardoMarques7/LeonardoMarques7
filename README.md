@@ -21,6 +21,7 @@ Aqui está a versão traduzida e ajustada para português do `README.md`:
   <img align="center" alt="HTML5" height="40" src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" title="HTML5">
   <img align="center" alt="CSS3" height="40" src="https://cdn-icons-png.flaticon.com/512/5968/5968242.png" title="CSS3">
   <img align="center" alt="Python" height="40" src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" title="Python">
+  <img align="center" alt="PHP" height="40" src="https://upload.wikimedia.org/wikipedia/commons/2/27/PHP-logo.svg" title="PHP">
   <img align="center" alt="C#" height="40" src="https://upload.wikimedia.org/wikipedia/commons/0/0d/C_Sharp_wordmark.svg" title="C#">
 </div>
 
@@ -32,26 +33,15 @@ Aqui está a versão traduzida e ajustada para português do `README.md`:
 ---
 
 ### 📫 **Como me encontrar**
-- **E-mail:** [leonardomarques@example.com](mailto:leonardomarques@example.com)  
-- **LinkedIn:** [Leonardo Marques](https://www.linkedin.com/in/LeonardoMarques)  
-- **Portfólio:** [Meu Portfólio](https://leonardomarques7.github.io)  
+- **E-mail:** [leonardoemcs!66@gmail.com](mailto:leonardoemcs!66@gmail.com)  
+- **LinkedIn:** [Leonardo Marques](https://www.linkedin.com/in/leonardo-emanuel-3695451a0/)  
+- **Portfólio:** [Meu Portfólio](https://portfolio-react2.netlify.app)  
 
 ---
 
 ### 🌱 **Sobre mim**
 - 🚀 Apaixonado por desenvolvimento web e de software.  
-- 📖 Atualmente aprimorando meus conhecimentos em **[tecnologia específica que você está aprendendo]**.  
-- 💡 Interesses: **projetos open-source**, **código limpo** e **soluções inovadoras**.  
+- 📖 Estudante de ciências da computação.
+- 🎓 Formado em Técnico de Desenvolvimento de Sistemas  
+- 💡 Interesses: **projetos open-source**, **código limpo**, **soluções inovadoras** e ** trabalhar em equipe**.  
 
----
-
-**Vamos construir algo incrível juntos!** 🚀
-
----
-
-### Sugestões adicionais:
-1. **Adicione um banner**: Um banner no topo com seu nome e alguma imagem relacionada ao que você faz pode deixar seu perfil mais marcante.
-2. **Seção de Projetos**: Liste seus projetos principais com uma breve descrição e links diretos.
-3. **Atualize seu Portfólio**: Caso ainda não tenha um site ou portfólio pronto, considere criar um para centralizar informações sobre você.
-
-Se precisar de mais ajuda, é só chamar! 😊
