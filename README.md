@@ -30,9 +30,9 @@
 ---
 
 ### 📫 **Como me encontrar**
-- **E-mail:** [leonardoemcs166@gmail.com](mailto:leonardoemcs166@gmail.com)  
+- **E-mail:** [leonardo.emcsantos@gmail.com](mailto:leonardo.emcsantos@gmail.com)  
 - **LinkedIn:** [Leonardo Marques](https://www.linkedin.com/in/leonardo-emanuel-3695451a0/)  
-- **Portfólio:** [Meu Portfólio](https://portfolio-react2.netlify.app)  
+- **Portfólio:** [Meu Portfólio](https://leonardomdev.netlify.app/)  
 
 ---
 
