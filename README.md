@@ -1,44 +1,97 @@
-# Leonardo Marques
+# 👨‍💻 Leonardo Marques  
+
+🚀 Desenvolvedor Web | Full Stack em formação  
+🎓 Estudante de Ciência da Computação  
+💡 Foco em desenvolvimento de aplicações modernas, escaláveis e bem estruturadas  
+
+---
+
+## 💼 Objetivo
+
+Busco oportunidade como **Desenvolvedor Web / Full Stack Júnior**, onde eu possa:
+- Contribuir com código limpo e organizado
+- Aprender com times experientes
+- Participar de projetos reais com impacto
+- Evoluir tecnicamente todos os dias
+
+---
+
+## 🛠️ Stack Principal
+
+### 🌐 Front-end
+- React.js
+- JavaScript (ES6+)
+- HTML5
+- CSS3
+- TailwindCSS
+
+### 🔙 Back-end
+- Node.js
+- PHP
+- Python
+- C#
+
+### 🗄️ Banco de Dados
+- MongoDB
+- MySQL
+
+### ⚙️ Ferramentas
+- Git & GitHub
+- JWT (Autenticação)
+- APIs REST
+- Vercel / Render / Netlify
+
+---
+
+## 🚀 Projetos em Destaque
+
+### 🏠 DormeAqui
+Plataforma de hospedagem com:
+- Autenticação JWT
+- OAuth (Google/GitHub)
+- Upload de imagens
+- Sistema de regras e permissões
+- Deploy em produção
+
+🔗 [Ver Projeto](LINK_AQUI)  
+🔗 [Repositório](LINK_AQUI)
+
+---
+
+### 🎵 Player de Música Web
+Aplicação moderna com:
+- Interface responsiva
+- Organização por artistas
+- Estrutura de dados customizada
+
+---
+
+### 🧠 WikiLo
+Plataforma colaborativa para criação de wikis focadas em artistas independentes brasileiros.
+
+---
+
+## 📈 GitHub Stats
 
 <div align="center">
-  <a href="https://github.com/LeonardoMarques7">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LeonardoMarques7&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub de Leonardo Marques"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeonardoMarques7&layout=compact&langs_count=7&theme=midnight-purple" alt="Linguagens mais usadas"/>
-  </a>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LeonardoMarques7&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeonardoMarques7&layout=compact&theme=tokyonight"/>
 </div>
 
 ---
 
-### 🛠️ **Tecnologias**
+## 🌱 Diferenciais
 
-#### **Linguagens**
-<div style="display: inline_block">
-  <img align="center" alt="JavaScript" height="40" src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" title="JavaScript">
-  <img align="center" alt="HTML5" height="40" src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" title="HTML5">
-  <img align="center" alt="CSS3" height="40" src="https://cdn-icons-png.flaticon.com/512/5968/5968242.png" title="CSS3">
-  <img align="center" alt="Python" height="40" src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" title="Python">
-  <img align="center" alt="PHP" height="40" src="https://upload.wikimedia.org/wikipedia/commons/2/27/PHP-logo.svg" title="PHP">
-  <img align="center" alt="C#" height="40" src="https://upload.wikimedia.org/wikipedia/commons/0/0d/C_Sharp_wordmark.svg" title="C#">
-  <img align="center" alt="Git" height="40" src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Git_icon.svg" title="Git">
-</div>
-
-#### **Frameworks e Bibliotecas**
-<div style="display: inline_block">
-  <img align="center" alt="React" height="40" src="https://cdn.freebiesupply.com/logos/large/2x/react-1-logo-png-transparent.png" title="React.js">
-</div>
+- Mentalidade de produto (não apenas código)
+- Experiência criando projetos do zero
+- Preocupação com segurança (SQL Injection, autenticação, tokens)
+- Experiência com deploy real
+- Interesse em arquitetura e boas práticas
 
 ---
 
-### 📫 **Como me encontrar**
-- **E-mail:** [leonardo.emcsantos@gmail.com](mailto:leonardo.emcsantos@gmail.com)  
-- **LinkedIn:** [Leonardo Marques](https://www.linkedin.com/in/leonardo-emanuel-3695451a0/)  
-- **Portfólio:** [Meu Portfólio](https://leonardomdev.netlify.app/)  
+## 📫 Contato
 
----
-
-### 🌱 **Sobre mim**
-- 🚀 Apaixonado por desenvolvimento web e de software.  
-- 📖 Estudante de ciências da computação.
-- 🎓 Formado em Técnico de Desenvolvimento de Sistemas  
-- 💡 Interesses: **projetos open-source**, **código limpo**, **soluções inovadoras** e **trabalhar em equipe**.  
-
+📧 leonardo.emcsantos@gmail.com  
+💼 LinkedIn: https://www.linkedin.com/in/leonardo-emanuel-3695451a0/  
+🌐 Portfólio: https://leonardomdev.netlify.app/
