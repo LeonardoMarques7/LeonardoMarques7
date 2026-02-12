@@ -1,77 +1,103 @@
 # 👨‍💻 Leonardo Marques  
 
-🚀 Desenvolvedor Web | Full Stack em formação  
+🚀 Desenvolvedor Full Stack com foco em aplicações web modernas  
 🎓 Estudante de Ciência da Computação  
-💡 Foco em desenvolvimento de aplicações modernas, escaláveis e bem estruturadas  
+💡 Experiência construindo sistemas completos com autenticação, banco de dados e deploy em produção  
 
 ---
 
-## 💼 Objetivo
+## 🧠 Sobre Mim
 
-Busco oportunidade como **Desenvolvedor Web / Full Stack Júnior**, onde eu possa:
-- Contribuir com código limpo e organizado
-- Aprender com times experientes
-- Participar de projetos reais com impacto
-- Evoluir tecnicamente todos os dias
+Sou desenvolvedor com experiência prática criando aplicações web do zero até produção.  
+Tenho foco em arquitetura organizada, segurança (JWT, OAuth), integração com APIs e boas práticas de código.
+
+Busco oportunidade como **Desenvolvedor Web / Full Stack Júnior**, onde eu possa contribuir ativamente em projetos reais e evoluir tecnicamente em equipe.
 
 ---
 
-## 🛠️ Stack Principal
+# 🚀 Experiência Prática em Projetos Reais
 
-### 🌐 Front-end
+## 🏠 DormeAqui – Plataforma de Hospedagem
+
+Aplicação full stack com:
+
+- Autenticação JWT
+- Login com Google e GitHub (OAuth2)
+- Controle de permissões e regras
+- Upload e gerenciamento de imagens
+- Integração com banco de dados
+- API REST estruturada
+- Deploy em produção (Render)
+
+### 🔧 Tecnologias:
+React • Node.js • MongoDB • JWT • OAuth • Tailwind
+
+🔗 [Ver Projeto Online](https://projetodormeaqui.onrender.com/)  
+🔗 [Repositório](https://github.com/LeonardoMarques7/ProjetoDormeAqui/)
+
+---
+
+## 🎵 Player de Música Web
+
+- Interface responsiva
+- Estrutura de dados customizada
+- Organização por artistas
+- Componentização com React
+
+---
+
+## 🧠 WikiLo
+
+Plataforma colaborativa para criação e gestão de wikis focadas em artistas independentes brasileiros.
+
+- CRUD completo
+- Estrutura modular
+- Integração front + back
+- Banco de dados
+
+---
+
+# 🛠️ Stack Técnica
+
+## 🌐 Front-end
 - React.js
 - JavaScript (ES6+)
 - HTML5
 - CSS3
 - TailwindCSS
 
-### 🔙 Back-end
+## 🔙 Back-end
 - Node.js
 - PHP
 - Python
 - C#
 
-### 🗄️ Banco de Dados
+## 🗄️ Banco de Dados
 - MongoDB
 - MySQL
 
-### ⚙️ Ferramentas
-- Git & GitHub
-- JWT (Autenticação)
+## ⚙️ Conceitos que aplico na prática
 - APIs REST
-- Vercel / Render / Netlify
+- Autenticação com JWT
+- OAuth2
+- Estrutura MVC
+- Modelagem de banco de dados
+- Proteção contra SQL Injection
+- Deploy em ambiente real
 
 ---
 
-## 🚀 Projetos em Destaque
+# 📈 O que você pode esperar de mim
 
-### 🏠 DormeAqui
-Plataforma de hospedagem com:
-- Autenticação JWT
-- OAuth (Google/GitHub)
-- Upload de imagens
-- Sistema de regras e permissões
-- Deploy em produção
-
-🔗 [Ver Projeto](https://projetodormeaqui.onrender.com/)  
-🔗 [Repositório](https://github.com/LeonardoMarques7/ProjetoDormeAqui/)
+✔ Capacidade de construir aplicações completas  
+✔ Entendimento de front-end e back-end  
+✔ Experiência com deploy em produção  
+✔ Comprometimento com aprendizado contínuo  
+✔ Interesse por arquitetura e boas práticas  
 
 ---
 
-### 🎵 Player de Música Web
-Aplicação moderna com:
-- Interface responsiva
-- Organização por artistas
-- Estrutura de dados customizada
-
----
-
-### 🧠 WikiLo
-Plataforma colaborativa para criação de wikis focadas em artistas independentes brasileiros.
-
----
-
-## 📈 GitHub Stats
+# 📊 GitHub Stats
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LeonardoMarques7&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
@@ -80,17 +106,7 @@ Plataforma colaborativa para criação de wikis focadas em artistas independente
 
 ---
 
-## 🌱 Diferenciais
-
-- Mentalidade de produto (não apenas código)
-- Experiência criando projetos do zero
-- Preocupação com segurança (SQL Injection, autenticação, tokens)
-- Experiência com deploy real
-- Interesse em arquitetura e boas práticas
-
----
-
-## 📫 Contato
+# 📫 Contato
 
 📧 leonardo.emcsantos@gmail.com  
 💼 LinkedIn: https://www.linkedin.com/in/leonardo-emanuel-3695451a0/  
