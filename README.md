@@ -97,15 +97,6 @@ Plataforma colaborativa para criação e gestão de wikis focadas em artistas in
 
 ---
 
-# 📊 GitHub Stats
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LeonardoMarques7&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeonardoMarques7&layout=compact&theme=tokyonight"/>
-</div>
-
----
-
 # 📫 Contato
 
 📧 leonardo.emcsantos@gmail.com  
