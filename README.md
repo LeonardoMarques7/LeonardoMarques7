@@ -53,8 +53,8 @@ Plataforma de hospedagem com:
 - Sistema de regras e permissões
 - Deploy em produção
 
-🔗 [Ver Projeto](LINK_AQUI)  
-🔗 [Repositório](LINK_AQUI)
+🔗 [Ver Projeto](https://projetodormeaqui.onrender.com/)  
+🔗 [Repositório](https://github.com/LeonardoMarques7/ProjetoDormeAqui/)
 
 ---
 
